@@ -1,0 +1,15 @@
+{
+  "name": "new-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sqlite3": "github:mapbox/node-sqlite3#918052b538b0effe6c4a44c74a16b2749c08a0d2",
+    "uuid": "^8.3.2"
+  }
+}
